@@ -51,6 +51,7 @@ This project consists of coding basic C functions (see below), which are then co
 * [`ft_putendl_fd`](ft_putendl_fd.c)	- output string to given file with newline.
 * [`ft_putnbr_fd`](ft_putnbr_fd.c)	- output integer to given file.
 * [`ft_itoa`](ft_itoa.c)		- convert integer to ASCII string.
+* [`ft_atoi`](ft_atoi.c)		- convert ASCII string to integer.
 * [`ft_substr`](ft_substr.c)		- extract substring from string.
 * [`ft_strtrim`](ft_strtrim.c)		- trim beginning and end of string with the specified characters.
 * [`ft_strjoin`](ft_strjoin.c)		- concatenate two strings into a new string (with malloc).
@@ -65,12 +66,6 @@ This project consists of coding basic C functions (see below), which are then co
 * [`ft_lstadd_front`](ft_lstadd_front.c)	- add new element at beginning of list.
 * [`ft_lstdelone`](ft_lstdelone.c)	- delete element from list.
 * [`ft_lstclear`](ft_lstclear.c)	- delete sequence of elements of list from a starting point.
-
-### Later added functions
-
-* [`ft_atoi`](ft_atoi.c)		- convert ASCII string to integer.
-* [`get_next_line`](get_next_line.c)	- returning NULL-terminated line while reading buffer by given size chunks.
-* [`ft_memclean`](ft_memclean.c)	- free memory allocated for a pointer. 
 
 ## Usage
 
